@@ -1,0 +1,6 @@
+artifact_location: file:///home/sweta/MTPnew/mlruns/519883988081505162
+creation_time: 1758426499451
+experiment_id: '519883988081505162'
+last_update_time: 1758426499451
+lifecycle_stage: active
+name: FinBERT_Inference

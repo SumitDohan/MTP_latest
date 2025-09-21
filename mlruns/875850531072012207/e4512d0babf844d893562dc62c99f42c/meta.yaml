@@ -1,0 +1,14 @@
+artifact_uri: file:///home/sweta/MTPnew/mlruns/875850531072012207/e4512d0babf844d893562dc62c99f42c/artifacts
+end_time: 1758426480992
+entry_point_name: ''
+experiment_id: '875850531072012207'
+lifecycle_stage: active
+run_id: e4512d0babf844d893562dc62c99f42c
+run_name: preprocessing
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758426480834
+status: 3
+tags: []
+user_id: sweta
